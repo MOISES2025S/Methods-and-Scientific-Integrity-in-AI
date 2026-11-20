@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this research ethics protocol, please cite it as a course research artifact."
+title: "Session 09 — Research Ethics Protocol: Traffic-Flow Forecasting Using MTC Open Data"
+authors:
+  - family-names: Gamarra
+    given-names: Moisés Evangelista
+date-released: 2026-11-19
+type: software
