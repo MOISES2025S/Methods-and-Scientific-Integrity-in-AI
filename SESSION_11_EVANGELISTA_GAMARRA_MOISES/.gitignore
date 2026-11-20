@@ -1,0 +1,23 @@
+# Original and derived datasets
+*.csv
+*.parquet
+*.xlsx
+*.xls
+/data/
+/raw/
+/processed/
+
+# Credentials and private configuration
+.env
+*.pem
+*.key
+credentials*
+secrets*
+token*
+
+# Temporary and notebook outputs
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
